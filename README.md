@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aman 👋<br><br>Software Developer | Full-Stack & Android Developer  <br> B.Tech (3rd Year) – Maharaja Agrasen Institute of Technology, Delhi<br><br>I enjoy building scalable applications and solving complex problems through code. <br>Currently focused on Data Structures & Algorithms, backend systems, and mobile app development.<br><br> Currently Building<br>• Production-level mobile applications  <br>• Scalable backend systems  <br>• Real-world SaaS and startup projects<br><br>Let's build something great 🚀
+Hi, I'm Aman 👋<br><br>Software Developer | Full-Stack & Mobile Developer  <br> B.Tech (3rd Year) – Maharaja Agrasen Institute of Technology, Delhi<br><br>I enjoy building scalable applications and solving complex problems through code. <br>Currently focused on Data Structures & Algorithms, backend systems, and mobile app development.<br><br> Currently Building<br>• Production-level mobile applications  <br>• Scalable backend systems  <br>• Real-world SaaS and startup projects<br><br>Let's build something great 🚀
 
 
 ## 🌐 Socials:
