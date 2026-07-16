@@ -2,7 +2,7 @@
 
 # Hi, I'm Aman 👋
 
-**Full-Stack & Mobile Developer** — React Native · TypeScript · Node.js
+**Full Stack & Mobile Developer**  React Native · TypeScript · Node.js
 
 B.Tech (3rd Year), Maharaja Agrasen Institute of Technology, Delhi
 
@@ -16,11 +16,11 @@ B.Tech (3rd Year), Maharaja Agrasen Institute of Technology, Delhi
 
 ### About Me
 
-I build production-shaped applications end to end — React Native/Expo on the frontend, Node.js and Postgres on the backend. I care about the parts of an app that don't show up in a demo: auth, data integrity, and what happens when a third-party API fails.
+I build production shaped applications end to end  React Native/Expo on the frontend, Node.js and Postgres on the backend. I care about the parts of an app that don't show up in a demo: auth, data integrity, and what happens when a third-party API fails.
 
 **Recent work:**
-- 🚕 **[Ryde](https://github.com/Amanag43/Ryde)** — a full-stack ride-hailing app with live maps, real-time route pricing, and Razorpay payments, backed by a serverless Postgres API layer
-- ❤️ **[VitalSync](https://github.com/Amanag43/VitalSync)** — a health-monitoring app integrating Android Health Connect to read real vitals data (heart rate, SpO2, blood pressure, and more)
+- 🚕 **[Ryde](https://github.com/Amanag43/Ryde)** — a full stack ride hailing app with live maps, real time route pricing, and Razorpay payments, backed by a serverless Postgres API layer
+- ❤️ **[VitalSync](https://github.com/Amanag43/VitalSync)** — a health monitoring app integrating Android Health Connect to read real vitals data (heart rate, SpO2, blood pressure, and more)
 
 **Currently sharpening:** Data Structures & Algorithms, backend system design, and production-grade mobile UI.
 
@@ -84,9 +84,9 @@ I build production-shaped applications end to end — React Native/Expo on the f
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Ryde](https://github.com/Amanag43/Ryde)** | Full-stack ride-hailing app — live maps, real-time route pricing, Razorpay payments | React Native · Expo Router · Neon Postgres |
-| **[VitalSync](https://github.com/Amanag43/VitalSync)** | Health-monitoring app reading real vitals via Android Health Connect | React Native · Node.js · MongoDB |
-| **[Watch-page](https://github.com/Amanag43/Watch-page)** | Luxury watch marketplace UI — animated carousels, dark glass-inspired design system | React Native · Expo Router · Reanimated |
+| **[Ryde](https://github.com/Amanag43/Ryde)** | Full stack ride hailing app   live maps, real-time route pricing, Razorpay payments | React Native · Expo Router · Neon Postgres |
+| **[VitalSync](https://github.com/Amanag43/VitalSync)** | Health monitoring app reading real vitals via Android Health Connect | React Native · Node.js · MongoDB |
+| **[Watch-page](https://github.com/Amanag43/Watch-page)** | Luxury watch marketplace UI   animated carousels, dark glass inspired design system | React Native · Expo Router · Reanimated |
 
 <div align="center">
 
