@@ -27,9 +27,6 @@
   <a href="https://www.instagram.com/agarwal.amannn/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:amanagarwal@example.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 
 </div>
 
@@ -57,7 +54,20 @@ PHILOSOPHY     = "Engineering is not just writing code — it is ensuring reliab
 ### 🏆 Engineering Trophies & Milestones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amanag43&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="GitHub Trophies" width="100%"/>
+
+  <a href="https://github.com/Amanag43">
+    <img src="https://github-profile-trophy.vercel.app/?username=Amanag43&theme=tokyonight&row=1&column=6&margin-w=15" alt="Amanag43 Trophies" width="100%"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- High-Impact Achievement Badges -->
+  <img src="https://img.shields.io/badge/Repositories-25+-61AFEF?style=flat-square&logo=github" alt="Repos"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-React%20Native%20%26%20Full%20Stack-2563EB?style=flat-square&logo=react" alt="Focus"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-New%20Delhi%2C%20India-D14836?style=flat-square&logo=googlemaps" alt="Location"/>
+
 </div>
 
 ---
@@ -108,7 +118,7 @@ PHILOSOPHY     = "Engineering is not just writing code — it is ensuring reliab
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,cpp,python,html,css" alt="Languages"/> |
-| **Mobile & Frontend** | <img src="https://skillicons.dev/icons?i=react,react,nextjs,tailwindcss,redux,figma" alt="Mobile & Frontend"/> |
+| **Mobile & Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,redux,figma" alt="Mobile & Frontend"/> |
 | **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" alt="Backend"/> |
 | **Cloud Native & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux" alt="Cloud"/> |
 | **Databases & Storage** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,supabase" alt="Databases"/> |
@@ -185,14 +195,18 @@ PHILOSOPHY     = "Engineering is not just writing code — it is ensuring reliab
 
 ---
 
-### 📈 Activity Vector & Commit Snake Graph
+### 📈 Activity Matrix & Contribution Heatmap
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanag43&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph"/>
+
+  <!-- Guaranteed Direct Live GitHub Commit Heatmap for Amanag43 -->
+  <img src="https://ghchart.rshah.org/61AFEF/Amanag43" alt="Amanag43 Commit Activity Chart" width="100%" />
 
   <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/Amanag43/Amanag43/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <!-- Dynamic Contribution Snake Animation (Requires GitHub Action Workflow in .github/workflows/snake.yml) -->
+  <img src="https://raw.githubusercontent.com/Amanag43/Amanag43/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%"/>
+
 </div>
 
 ---
