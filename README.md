@@ -34,10 +34,10 @@
 
 ---
 
-### ⚡ Interactive Terminal Bio
+###  Interactive Terminal Bio
 
 ```bash
-┌──(aman⚡senior-workstation)-[~]
+┌──(aman senior-workstation)-[~]
 └─$ cat profile.env && system-status --verbose
 
 NAME           = "Aman Agarwal"
@@ -51,7 +51,7 @@ PHILOSOPHY     = "Engineering is not just writing code — it is ensuring reliab
 
 ---
 
-### 🏆 Engineering Trophies & Milestones
+###  Engineering Trophies & Milestones
 
 <div align="center">
 
@@ -111,7 +111,7 @@ PHILOSOPHY     = "Engineering is not just writing code — it is ensuring reliab
 
 ---
 
-### 🛠️ Multi-Domain Technology Arsenal
+###  Multi-Domain Technology Arsenal
 
 <div align="center">
 
@@ -128,35 +128,35 @@ PHILOSOPHY     = "Engineering is not just writing code — it is ensuring reliab
 
 ---
 
-### 🚀 Flagship Architectural Projects
+###  Flagship Architectural Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">❤️ VitalSync Telemetry</h3>
+      <h3 align="center"> VitalSync Telemetry</h3>
       <p align="center">
         <code>React Native</code> • <code>Node.js</code> • <code>PostgreSQL</code> • <code>AWS EC2</code>
       </p>
       <p>Production-grade IoT patient telemetry platform featuring real-time vital tracking (SpO2, BP, Heart Rate), AI diagnostic stability scoring, automated SOS emergency dispatch, and unthrottled cloud infrastructure.</p>
       <ul>
-        <li>⚡ Health Connect API native integration</li>
-        <li>🔒 End-to-end encrypted medical telemetry pipeline</li>
-        <li>🚨 Instant automated emergency SOS triggers</li>
+        <li> Health Connect API native integration</li>
+        <li> End-to-end encrypted medical telemetry pipeline</li>
+        <li> Instant automated emergency SOS triggers</li>
       </ul>
       <p align="center">
         <a href="https://github.com/Amanag43/VitalSync-APP"><b>View Repository »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🚕 Ryde Ride-Hailing App</h3>
+      <h3 align="center"> Ryde Ride-Hailing App</h3>
       <p align="center">
         <code>React Native / Expo</code> • <code>TypeScript</code> • <code>PostgreSQL</code> • <code>Razorpay</code>
       </p>
       <p>A full-stack mobile ride-hailing application built with Expo, offering live map routing, real-time dynamic pricing, serverless DB API layer, and secure Razorpay payment checkout.</p>
       <ul>
-        <li>📍 Sub-second live location & routing engine</li>
-        <li>💳 Automated payment gateway webhook integration</li>
-        <li>🛡️ Serverless PostgreSQL data integrity layer</li>
+        <li> Sub-second live location & routing engine</li>
+        <li> Automated payment gateway webhook integration</li>
+        <li> Serverless PostgreSQL data integrity layer</li>
       </ul>
       <p align="center">
         <a href="https://github.com/Amanag43/Ryde"><b>View Repository »</b></a>
@@ -165,13 +165,13 @@ PHILOSOPHY     = "Engineering is not just writing code — it is ensuring reliab
   </tr>
   <tr>
     <td width="100%" colspan="2" valign="top">
-      <h3 align="center">🎬 Watch-Page Experience</h3>
+      <h3 align="center"> centurion concierge ai </h3>
       <p align="center">
-        <code>React</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>REST API</code>
+        <code>React native </code> • <code>TypeScript</code> • <code> Node.js </code> • <code>REST API</code>
       </p>
-      <p>High-performance streaming video platform UI with dynamic search filtering, optimized image rendering, and responsive playback layout.</p>
+      <p> An event driven autonomous travel concierge that detects fight disruption via webhooks, evaluates rebooking policies , issues ew PNR e-ticket, and stream real time execution logs to an React native app</p>
       <p align="center">
-        <a href="https://github.com/Amanag43/Watch-page"><b>View Repository »</b></a>
+        <a href="https://github.com/Amanag43/centurion-concierge-ai"><b>View Repository »</b></a>
       </p>
     </td>
   </tr>
@@ -179,7 +179,7 @@ PHILOSOPHY     = "Engineering is not just writing code — it is ensuring reliab
 
 ---
 
-### 📊 Engineering Metrics & Telemetry
+###  Engineering Metrics & Telemetry
 
 <div align="center">
 
@@ -195,7 +195,7 @@ PHILOSOPHY     = "Engineering is not just writing code — it is ensuring reliab
 
 ---
 
-### 📈 Activity Matrix & Contribution Heatmap
+###  Activity Matrix & Contribution Heatmap
 
 <div align="center">
 
@@ -211,7 +211,7 @@ PHILOSOPHY     = "Engineering is not just writing code — it is ensuring reliab
 
 ---
 
-### 💭 Engineering Philosophy & Daily Quote
+###  Engineering Philosophy & Daily Quote
 
 <div align="center">
 
@@ -231,6 +231,5 @@ PHILOSOPHY     = "Engineering is not just writing code — it is ensuring reliab
   <img src="https://komarev.com/ghpvc/?username=Amanag43&style=flat-square&color=61AFEF&label=SYSTEM+ACCESS+COUNT" alt="Profile Views"/>
 
   <br/><br/>
-  <sub>⚡ Engineered with precision by Aman Agarwal • Powered by Antigravity</sub>
 
 </div>
